@@ -1,4 +1,4 @@
-##The beeproger assignment.
+The beeproger assignment.
 
 As indicated during the job interview, we would like you to complete an assignment for us. This will allow us to get a clear picture of your knowledge level.
 
