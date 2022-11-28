@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const MakeClient = axios.create({
-  baseURL: "https://react.thrilldigitals.com/api",
+  baseURL: "https://127.0.0.1/api",
   timeout: 60000,
 });
 
